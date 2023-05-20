@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShirykalovaAnn/bootstrap.git/static/css/main.3dc4262c.css",
+    "main.js": "/ShirykalovaAnn/bootstrap.git/static/js/main.60dee2d6.js",
+    "static/js/787.220d9ada.chunk.js": "/ShirykalovaAnn/bootstrap.git/static/js/787.220d9ada.chunk.js",
+    "index.html": "/ShirykalovaAnn/bootstrap.git/index.html",
+    "main.3dc4262c.css.map": "/ShirykalovaAnn/bootstrap.git/static/css/main.3dc4262c.css.map",
+    "main.60dee2d6.js.map": "/ShirykalovaAnn/bootstrap.git/static/js/main.60dee2d6.js.map",
+    "787.220d9ada.chunk.js.map": "/ShirykalovaAnn/bootstrap.git/static/js/787.220d9ada.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc4262c.css",
+    "static/js/main.60dee2d6.js"
+  ]
+}
